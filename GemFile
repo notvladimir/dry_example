@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'dry-system'
+gem 'dry-monitor'
+gem 'http'
+gem 'rake'
+gem 'lookout-rack-utils', '~> 3.8', '>= 3.8.0.39'

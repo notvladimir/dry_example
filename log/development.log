@@ -1,0 +1,5 @@
+# Logfile created on 2019-12-20 21:37:15 +0200 by logger.rb/66358
+I, [2019-12-21T02:13:05.063521 #8492]  INFO -- : Price checked with args: googl in ms
+I, [2019-12-21T02:14:27.835095 #1552]  INFO -- : Price checked with args: googl in ms
+I, [2019-12-21T02:14:38.353064 #11836]  INFO -- : Price checked with args: googl in ms
+I, [2019-12-21T02:14:47.220826 #9268]  INFO -- : Price checked with args: googl in ms
